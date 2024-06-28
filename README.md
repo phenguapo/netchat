@@ -45,7 +45,8 @@ Netchat is a simple client-server chat application built using Python's socket p
 
 5. **Chatting:**
 - Once connected, you can start sending messages from the client.
-- Messages will be displayed on the server and broadcasted to all connected clients.
+- For sending files, simply use 'sf < filepath >' (remove<>)
+- Messages and files will be displayed on the server and broadcasted to all connected clients.
 - Use Ctrl+C to exit both the server and client.
 
 ## Notes
